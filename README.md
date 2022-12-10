@@ -22,5 +22,6 @@ These are the tools and languages that I have worked with and have experience ab
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=tailwindcss&logoColor=007ACC)
 
 
